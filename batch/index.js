@@ -13,7 +13,8 @@ const getMaillist = () => {
   //mailgun mailing lists
   return [
     "subscribers@mg.christmind.info",
-    "verify@mail.jalancintasanctuary.com"
+    "maillisttest@mg.christmind.info",
+    "rmercer33@gmail.com"
   ];
 };
 
