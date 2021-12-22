@@ -14,7 +14,8 @@ const getMaillist = () => {
   return [
     "subscribers@mg.christmind.info",
     "maillisttest@mg.christmind.info",
-    "rmercer33@gmail.com"
+    "rmercer33@gmail.com",
+    "steinar@vistra.no"
   ];
 };
 
